@@ -55,6 +55,24 @@ MUI + Mint
 
 #部分截图
 
+##首页
+![图片加载失败](https://github.com/wu555932/Vuet-test/blob/master/image/%E9%A6%96%E9%A1%B5.png "首页")
+##新闻资讯
+![图片加载失败](https://github.com/wu555932/Vuet-test/blob/master/image/%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF.png "新闻资讯")
+##新闻评论
+![图片加载失败](https://github.com/wu555932/Vuet-test/blob/master/image/%E6%96%B0%E9%97%BB%E8%AF%A6%E6%83%852.png "新闻评论")
+##新闻详情
+![图片加载失败](https://github.com/wu555932/Vuet-test/blob/master/image/%E6%96%B0%E9%97%BB%E8%AF%A6%E6%83%85.png "新闻详情")
+##商品列表
+![图片加载失败](https://github.com/wu555932/Vuet-test/blob/master/image/%E5%95%86%E5%93%81%E5%88%97%E8%A1%A8.png "商品列表")
+##商品详情
+![图片加载失败](https://github.com/wu555932/Vuet-test/blob/master/image/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85.png "商品详情")
+##购物车
+![图片加载失败](https://github.com/wu555932/Vuet-test/blob/master/image/%E8%B4%AD%E7%89%A9%E8%BD%A6.png "购物车")
+##图片浏览
+![图片加载失败](https://github.com/wu555932/Vuet-test/blob/master/image/%E5%9B%BE%E7%89%87%E6%B5%8F%E8%A7%88.png "图片浏览")
+
+
 
 
 
