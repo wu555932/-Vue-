@@ -65,7 +65,7 @@ MUI + Mint
 
 
 
-###新闻资讯
+### 新闻资讯
 
 <img src="https://github.com/wu555932/Vuet-test/blob/master/image/%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF.png" width="365" height="619"/>   <img src="https://github.com/wu555932/Vuet-test/blob/master/image/%E6%96%B0%E9%97%BB%E8%AF%A6%E6%83%852.png" width="365" height="619"/> 
 
@@ -77,8 +77,8 @@ MUI + Mint
 
 ### 商品列表
 
-<img src="https://github.com/wu555932/Vuet-test/blob/master/image/%E9%A6%96%E9%A1%B5.png" width="365" height="619"/> 
-![图片加载失败](https://github.com/wu555932/Vuet-test/blob/master/image/%E5%95%86%E5%93%81%E5%88%97%E8%A1%A8.png "商品列表")
+<img src="https://github.com/wu555932/Vuet-test/blob/master/image/%E5%95%86%E5%93%81%E5%88%97%E8%A1%A8.png" width="365" height="619"/> 
+
 
 
 
