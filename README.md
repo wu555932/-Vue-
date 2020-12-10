@@ -1,4 +1,5 @@
-#感受
+# 感受
+
 学了一段时间的Vue发现它的组件化开发，真的非常的实用。想用Vue这个优点来做一个大型一点的项目来深切的感受一下。一开始想直接从网速找个Vue实战项目源码先看看，无奈大部分都是一些很简单的demo，对于深究Vue没有太大的帮助，剩下的一些大部分都是像音乐播放器之类的展示型项目，交互没有预期那么复杂。但我们实际在工作中，经常会遇到有购物车的项目，这类项目因为涉及到money，所以对逻辑严谨度要求高，页面之间交互复杂，又会伴随着登录、注册、用户信息等等，常常会让我们很头疼。既然还没人用vue写过这样的项目，于是只有自己一步一步来开发了。
 
 
@@ -12,26 +13,28 @@
 由于本人现在还是个学生在外实习只能利用业余时间来做，花了将近两个星期还有很多方面可以进行优化。还有留言反馈、视频专区、练习我们，这几个页面的功能结果和之前页面结构功能类似便不在编写
 
 
-#技术栈
+# 技术栈
+
 Vue2 + vuex +vue-router+axios + webpack+ES6 +sass + flex 
 
-#组件库
+# 组件库
+
 由于本人想快速开发，采用了两个轻量级的组件库
 MUI + Mint
 
-#项目的运行
+# 项目的运行
 
-###注意由于本项目是采用webpack打包，需要安装很多相关依赖(npm那也是必须的)
-###（一定要安装我已经找好兼容性的依赖包）
+### 注意由于本项目是采用webpack打包，需要安装很多相关依赖(npm那也是必须的)
+### （一定要安装我已经找好兼容性的依赖包）
     npm install 
 	npm run dev     （安装完依赖包之后，运行项目）
-##关于接口数据
+## 关于接口数据
 由于本人时间有限，此项目的接口数据一些是来源于网上的接口一些则是自己做的假数据
 
-#说明
+# 说明
 > 开发环境windows Chrome 84 nodejs 12.19.0
 
-#目标功能
+# 目标功能
 
  - [x] 易购首页--完成
  - [x] 新闻资讯--完成
@@ -43,7 +46,8 @@ MUI + Mint
  - [x] 会员页面--完成she
  - [x] 商品评论--完成
 
-#总结
+# 总结
+
 一般涉及到money的网页逻辑都比较复杂，尤其想一些电商网站，页面与页面之间交换非常的复杂，在我些购物车功能页面的时候感受很深刻，众多的数据和逻辑真的让人头大，我还没有设计和接口api文档，只能自己去深入思考，一步一步的摸索。
 
 在这个项目中还有一个令我感受很深的便是Vue的轻量级框架，非常非常的好用呀。在复杂交换逻辑的大型页面应用中Vuex完全征服我了，所以说利用Vue+Vuex完全可以去做大型的单页面项目了
@@ -53,7 +57,50 @@ MUI + Mint
 总的来说一切都是值得的。
 > 如果对你有帮助，您可以帮点一下右上角"Star"支持一下 谢谢啦 (*^_^*)
 
-#部分截图
+# 部分截图
+
+### 首页
+
+<img src="https://github.com/wu555932/Vuet-test/blob/master/image/%E9%A6%96%E9%A1%B5.png" width="365" height="619"/> 
+
+
+
+### 新闻资讯
+
+<img src="https://github.com/wu555932/Vuet-test/blob/master/image/%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF.png" width="365" height="619"/>   <img src="https://github.com/wu555932/Vuet-test/blob/master/image/%E6%96%B0%E9%97%BB%E8%AF%A6%E6%83%852.png" width="365" height="619"/> 
+
+### 新闻详情
+
+<img src="https://github.com/wu555932/Vuet-test/blob/master/image/%E6%96%B0%E9%97%BB%E8%AF%A6%E6%83%85.png" width="365" height="619"/> 
+
+
+
+### 商品列表
+
+<img src="https://github.com/wu555932/Vuet-test/blob/master/image/%E5%95%86%E5%93%81%E5%88%97%E8%A1%A8.png" width="365" height="619"/> 
+
+
+
+
+### 商品详情
+
+<img src="https://github.com/wu555932/Vuet-test/blob/master/image/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85.png" width="365" height="619"/> 
+
+
+
+### 购物车
+
+
+<img src="https://github.com/wu555932/Vuet-test/blob/master/image/%E8%B4%AD%E7%89%A9%E8%BD%A6.png" width="365" height="619"/> 
+
+
+
+## 图片浏览
+
+
+<img src="https://github.com/wu555932/Vuet-test/blob/master/image/%E5%9B%BE%E7%89%87%E6%B5%8F%E8%A7%88.png" width="365" height="619"/> 
+
+
 
 
 
